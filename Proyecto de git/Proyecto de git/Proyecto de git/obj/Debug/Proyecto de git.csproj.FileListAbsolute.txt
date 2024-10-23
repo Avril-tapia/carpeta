@@ -1,0 +1,14 @@
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto de git\Proyecto de git\bin\Debug\Proyecto de git.exe
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto de git\Proyecto de git\bin\Debug\Proyecto de git.pdb
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto de git\Proyecto de git\obj\Debug\Proyecto de git.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto de git\Proyecto de git\obj\Debug\Proyecto_de_git.MainForm.resources
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto de git\Proyecto de git\obj\Debug\Proyecto de git.csproj.GenerateResource.Cache
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto de git\Proyecto de git\obj\Debug\Proyecto de git.exe
+C:\Users\CC2_PC41\Documents\SharpDevelop Projects\Proyecto de git\Proyecto de git\obj\Debug\Proyecto de git.pdb
+C:\Users\CC2_PC41\Documents\Proyecto de git\Proyecto de git\Proyecto de git\obj\Debug\Proyecto de git.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC41\Documents\Proyecto de git\Proyecto de git\Proyecto de git\obj\Debug\Proyecto_de_git.MainForm.resources
+C:\Users\CC2_PC41\Documents\Proyecto de git\Proyecto de git\Proyecto de git\obj\Debug\Proyecto de git.csproj.GenerateResource.Cache
+C:\Users\CC2_PC41\Documents\Proyecto de git\Proyecto de git\Proyecto de git\obj\Debug\Proyecto de git.exe
+C:\Users\CC2_PC41\Documents\Proyecto de git\Proyecto de git\Proyecto de git\bin\Debug\Proyecto de git.exe
+C:\Users\CC2_PC41\Documents\Proyecto de git\Proyecto de git\Proyecto de git\bin\Debug\Proyecto de git.pdb
+C:\Users\CC2_PC41\Documents\Proyecto de git\Proyecto de git\Proyecto de git\obj\Debug\Proyecto de git.pdb
